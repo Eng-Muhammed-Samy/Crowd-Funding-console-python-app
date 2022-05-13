@@ -1,0 +1,20 @@
+[
+    {
+        "f_name": "mohamed",
+        "l_name": "samy",
+        "email": "m.s@g.com",
+        "password": "12345"
+    },
+    {
+        "f_name": "islam",
+        "l_name": "mohamed",
+        "email": "i.m@g.com",
+        "password": "12345"
+    },
+    {
+        "f_name": "khaled",
+        "l_name": "mohamed",
+        "email": "k.m@g.com",
+        "password": "12345"
+    }
+]
